@@ -2,4 +2,6 @@
 
 
 object detection using pre-trained model.
-pretrained model from tensorflowhub .trained on coco 2017 dataset.
+pretrained model from tensorflowhub trained on coco 2017 dataset.
+
+codes from tensorflow hub.
